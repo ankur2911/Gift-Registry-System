@@ -1,0 +1,44 @@
+
+body div.container:nth-child(even) .text-muted{
+	color:black!important;
+}
+#select_visibility_users{
+	display:none;
+}
+table {
+	margin-top: 40px;
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+	width:100%;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    padding: 8px;
+	text-align:center;
+}
+
+th:first-child, td:first-child{
+	border-width:0px;
+}
+.container{
+	height:auto;
+}
+#logout{
+	float:right;
+}
+.plus_image{
+	width:30px;
+	height:30px;
+	cursor: pointer;
+}
+.view_image{
+	width:59px;
+	height:30px;
+	cursor: pointer;
+}
+#myprofile{
+	float: right;
+	position:relative;
+	right:200px;
+}
