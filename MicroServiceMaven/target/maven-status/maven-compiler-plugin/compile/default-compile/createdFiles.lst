@@ -1,0 +1,16 @@
+com\microservice\AddItem.class
+com\microservice\userAuthenticate.class
+com\microservice\inventoryDelItem.class
+com\microservice\getRegistry.class
+com\microservice\GetVisible.class
+com\microservice\InventoryItem.class
+com\pojo\inventory_items.class
+connection\Initial.class
+com\microservice\UserItems.class
+com\microservice\UsersList.class
+connection\ValidUser.class
+com\pojo\gift_list.class
+com\microservice\addRegistry.class
+com\microservice\DeleteItem.class
+com\microservice\search.class
+connection\ConnectionClass.class
